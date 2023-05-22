@@ -1,0 +1,3 @@
+npx create-react-app mi-app   ----> creamos app react , mi-app es el nombre del directorio que se creara y dentro de el se creara la app
+npx create-react-app . ----> creamos app react en el directorio actual
+npm start  ---->  ejecuta el servidor de desarrollo en localhost
